@@ -47,6 +47,13 @@ public class BuySellStockTwiceTest {
 
         test(prices, maxProfit);
     }
+    @Test
+    public void buySellStockTwice6() {
+        prices = Arrays.asList(90, 80, 70, 60, 50);
+        maxProfit = 0;
+
+        test(prices, maxProfit);
+    }
 
     private void test(List<Integer> prices, int maxProfit) {
         assertEquals(maxProfit, BuySellStockTwice.buySellStockTwice(prices));
