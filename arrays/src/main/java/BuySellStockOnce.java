@@ -39,8 +39,8 @@ public class BuySellStockOnce {
     public static int buySellStockOnce(List<Integer> A){
         int minPrice = Integer.MAX_VALUE , maxProfit = 0;
         for(Integer price:A){
-            maxProfit = Math.max(maxProfit , price - minPrice);
-            minPrice = Math.min(minPrice , price);
+            maxProfit = Math.max(maxProfit , price - minPrice); // Local minimum
+            minPrice = Math.min(minPrice , price);//Max difference
         }
         return maxProfit;
     }
