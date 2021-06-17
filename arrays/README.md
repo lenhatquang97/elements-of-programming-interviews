@@ -6,11 +6,11 @@
 - [x] 6.4 AdvanceThroughArray
 - [x] 6.5 DeleteDuplicates
 - [x] 6.6 BuySellStockOnce
-- [ ] 6.7 BuySellStockTwice
-- [ ] 6.8 EnumeratePrimes
-- [ ] 6.9 PermuteElements
-- [ ] 6.10 NextPermutation
-- [ ] 6.11 SampleOfflineData
+- [x] 6.7 BuySellStockTwice
+- [x] 6.8 EnumeratePrimes
+- [x] 6.9 PermuteElements
+- [ ] 6.10 NextPermutation - Backtracking (TBD)
+- [x] 6.11 SampleOfflineData
 - [ ] 6.12 SampleOnlineData
 - [ ] 6.13 ComputeRandomPermutation
 - [ ] 6.14 ComputeRandomSubset

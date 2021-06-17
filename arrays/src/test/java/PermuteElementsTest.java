@@ -38,6 +38,14 @@ public class PermuteElementsTest {
 
         test(expected, perm, a);
     }
+    @Test
+    public void applyPermutation4() {
+        expected = Arrays.asList(11,35,63,26,28,93,58,82,75,50);
+        perm = Arrays.asList(0,3,6,1,2,9,5,8,7,4);
+        a = Arrays.asList(11,26,28,35,50,58,63,75,82,93);
+
+        test(expected, perm, a);
+    }
 
     private void test(List<Integer> expected, List<Integer> perm, List<Integer> a) {
         PermuteElements.applyPermutation(perm, a);
