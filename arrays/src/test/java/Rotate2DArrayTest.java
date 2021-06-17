@@ -12,7 +12,7 @@ public class Rotate2DArrayTest {
 
 
     @Test
-    public void rotateMatix1() {
+    public void rotateMatrix1() {
         expected = Arrays.asList(
                 Arrays.asList(13,9,5,1),
                 Arrays.asList(14,10,6,2),
@@ -30,7 +30,7 @@ public class Rotate2DArrayTest {
     }
 
     private void test(List<List<Integer>> expected, List<List<Integer>> matrix) {
-        assertEquals(expected, Rotate2DArray.rotateMatix(matrix));
+        assertEquals(expected, Rotate2DArray.rotateMatrix(matrix));
     }
 
 }
