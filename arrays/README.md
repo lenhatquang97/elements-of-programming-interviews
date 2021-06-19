@@ -11,11 +11,13 @@
 - [x] 6.9 PermuteElements
 - [x] 6.11 SampleOfflineData
 - [x] 6.18 Rotate2DArray
-- [ ] 6.10 NextPermutation - Backtracking (TBD)
+- [x] 6.19 ComputePascalsTriangle
+- Random (TBD):  
 - [ ] 6.12 SampleOnlineData
 - [ ] 6.13 ComputeRandomPermutation
 - [ ] 6.14 ComputeRandomSubset
 - [ ] 6.15 GenerateNonuniformRandomNumbers
-- [ ] 6.16 SudokuChecker
+- Backtracking (TBD):
+- [ ] 6.10 NextPermutation - Backtracking (TBD)
+- [ ] 6.16 SudokuChecker - Backtracking (TBD)
 - [ ] 6.17 ComputeSpiralOrdering
-- [ ] 6.19 ComputePascalsTriangle
