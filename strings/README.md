@@ -1,10 +1,10 @@
 # Chapter 7: Strings
 
 - [x] 7.1 InterconvertStringAndInteger
-- [ ] 7.2 BaseConversion (Can)
-- [ ] 7.3 SpreadsheetColumnEncoding (Can)
+- [ ] 7.2 BaseConversion
+- [x] 7.3 SpreadsheetColumnEncoding
 - [ ] 7.4 ReplaceAndRemove
-- [ ] 7.5 PalindromeAlphanumeric
+- [x] 7.5 PalindromeAlphanumeric
 - [ ] 7.6 ReverseWordsInASentence
 - [ ] 7.7 ComputeMnemonicsPhoneNumber
 - [ ] 7.8 LookAndSayProblem

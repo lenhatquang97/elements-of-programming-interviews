@@ -8,6 +8,9 @@ public class BaseConversion {
         int passive=0;
         if(s.charAt(0)=='-')
             passive=1;
+        if(b1!=10){
+
+        }
         //b1 -> 10 truoc sau do 10-> b2
         return "";
     }
