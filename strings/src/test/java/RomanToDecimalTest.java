@@ -38,6 +38,13 @@ public class RomanToDecimalTest {
 
         test(expected, roman);
     }
+    @Test
+    public void romanToDecimal5() {
+        expected = 79;
+        roman = "LXXIX";
+
+        test(expected, roman);
+    }
 
     private void test(int expected, String roman) {
         assertEquals(expected, RomanToDecimal.romanToDecimal(roman));

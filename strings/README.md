@@ -7,8 +7,8 @@
 - [x] 7.5 PalindromeAlphanumeric
 - [x] 7.6 ReverseWordsInASentence
 - [ ] 7.7 ComputeMnemonicsPhoneNumber
-- [ ] 7.8 LookAndSayProblem
-- [ ] 7.9 RomanToDecimal
+- [x] 7.8 LookAndSayProblem
+- [x] 7.9 RomanToDecimal
 - [ ] 7.10 ComputeValidIPAddresses
 - [ ] 7.11 StringSinusoidal
 - [ ] 7.12 RunLengthEncoding
