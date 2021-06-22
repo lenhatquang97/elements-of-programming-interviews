@@ -9,7 +9,7 @@
 - [x] 7.9 RomanToDecimal
 - [x] 7.11 StringSinusoidal
 - [x] 7.12 RunLengthEncoding
-- [ ] 7.4 ReplaceAndRemove
-- [ ] 7.13 FindFirstOccurrenceOfSubstring
-- [ ] 7.7 ComputeMnemonicsPhoneNumber: Backtracking
+- [x] 7.7 ComputeMnemonicsPhoneNumber: Backtracking
+- [ ] 7.4 ReplaceAndRemove: Don't understand
+- [ ] 7.13 FindFirstOccurrenceOfSubstring: Rabin-Karp
 - [ ] 7.10 ComputeValidIPAddresses: Backtracking

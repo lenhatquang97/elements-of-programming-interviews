@@ -2,7 +2,7 @@
 
 - [ ] Chapter 5: Primitives
 - [ ] Chapter 6: Arrays (12/20): Random and Backtracking will be learnt next :))
-- [ ] Chapter 7: Strings
+- [ ] Chapter 7: Strings: (10/12): 1 Backtracking exercises - 1 Rabin-Karp - 1 hard solution
 - [ ] Chapter 8: Linked Lists
 - [ ] Chapter 9: Stacks and Queues
 - [ ] Chapter 10: Binary Trees
