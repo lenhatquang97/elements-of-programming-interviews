@@ -1,5 +1,4 @@
 # Chapter 7: Strings
-
 - [x] 7.1 InterconvertStringAndInteger
 - [x] 7.2 BaseConversion
 - [x] 7.3 SpreadsheetColumnEncoding
@@ -10,6 +9,7 @@
 - [x] 7.11 StringSinusoidal
 - [x] 7.12 RunLengthEncoding
 - [x] 7.7 ComputeMnemonicsPhoneNumber: Backtracking
+- [x] 7.10 ComputeValidIPAddresses: Backtracking
 - [ ] 7.4 ReplaceAndRemove: Don't understand
 - [ ] 7.13 FindFirstOccurrenceOfSubstring: Rabin-Karp
-- [ ] 7.10 ComputeValidIPAddresses: Backtracking
+
