@@ -32,6 +32,14 @@ public class AddIntegersTest {
 
         test(sum, a, b);
     }
+    @Test
+    public void addIntegers4() {
+        sum = LinkedListUtil.createLinkedList(8, 9, 9, 9, 1);
+        a = LinkedListUtil.createLinkedList(9, 9, 9, 9);
+        b = LinkedListUtil.createLinkedList(9, 9, 9, 9);
+
+        test(sum, a, b);
+    }
 
     private static void test(ListNode<Integer> sum, ListNode<Integer> a, ListNode<Integer> b) {
         LinkedListUtil.assertSameList(sum, AddIntegers.addIntegers(a, b));
