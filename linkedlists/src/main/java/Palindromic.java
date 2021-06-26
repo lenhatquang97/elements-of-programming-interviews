@@ -5,7 +5,7 @@ public class Palindromic {
     */
 
     public static boolean isPalindromic(ListNode<Integer> list) {
-        ListNode<Integer>head=new ListNode<>(null);
+        ListNode<Integer>head=new ListNode<>();
         ListNode<Integer>node=list;
         if(node==null||node.next==null){
             return true;
