@@ -5,11 +5,11 @@
 - [x] 8.6 DeleteNode
 - [x] 8.7 DeleteKthLastNode
 - [x] 8.8 RemoveDuplicatesFromSortedList
+- [x] 8.9 CyclicRightShift
 - [x] 8.10 EvenOddMerge
 - [x] 8.11 Palindromic
 - [x] 8.13 AddIntegers
 - [x] 8.4 TestForOverlappingLists
 - [ ] 8.2 ReverseSingleSublist
 - [ ] 8.5 FindOverlappingWithCycles
-- [ ] 8.9 CyclicRightShift
 - [ ] 8.12 ListPivot
