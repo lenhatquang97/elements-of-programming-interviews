@@ -1,9 +1,9 @@
 ## Chapter Completion Checklist
 
 - [ ] Chapter 5: Primitives
-- [ ] Chapter 6: Arrays (12/20): Random and Backtracking will be learnt next :))
-- [ ] Chapter 7: Strings: (11/13): 1 Rabin-Karp - 1 hard solution
-- [ ] Chapter 8: Linked Lists
+- [x] Chapter 6: Arrays (12/20): Random and Backtracking will be learnt next :))
+- [x] Chapter 7: Strings: (11/13): 1 Rabin-Karp - 1 hard solution
+- [x] Chapter 8: Linked Lists (11/13): 1 reverse - 1 overlapping 
 - [ ] Chapter 9: Stacks and Queues
 - [ ] Chapter 10: Binary Trees
 - [ ] Chapter 11: Heaps
