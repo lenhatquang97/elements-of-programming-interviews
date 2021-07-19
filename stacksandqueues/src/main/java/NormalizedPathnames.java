@@ -1,3 +1,5 @@
+import java.util.regex.Pattern;
+
 public class NormalizedPathnames {
 
     /*
@@ -5,6 +7,7 @@ public class NormalizedPathnames {
     */
 
     public static String shortestEquivalentPath(String path) {
+        String[] arr =path.split("/");
 
         return "";
     }

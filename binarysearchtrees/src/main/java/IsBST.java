@@ -5,7 +5,6 @@ public class IsBST {
     */
 
     public static boolean isBST(BinaryTree<Integer> tree) {
-
         return false;
     }
 }
